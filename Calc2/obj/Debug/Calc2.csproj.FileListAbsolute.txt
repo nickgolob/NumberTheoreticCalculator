@@ -1,0 +1,12 @@
+c:\users\patty golob\documents\visual studio 2013\Projects\Calc2\Calc2\bin\Debug\Calc2.exe.config
+c:\users\patty golob\documents\visual studio 2013\Projects\Calc2\Calc2\bin\Debug\Calc2.exe
+c:\users\patty golob\documents\visual studio 2013\Projects\Calc2\Calc2\bin\Debug\Calc2.pdb
+c:\users\patty golob\documents\visual studio 2013\Projects\Calc2\Calc2\obj\Debug\Calc2.csprojResolveAssemblyReference.cache
+c:\users\patty golob\documents\visual studio 2013\Projects\Calc2\Calc2\obj\Debug\Calc2.Properties.Resources.resources
+c:\users\patty golob\documents\visual studio 2013\Projects\Calc2\Calc2\obj\Debug\Calc2.csproj.GenerateResource.Cache
+c:\users\patty golob\documents\visual studio 2013\Projects\Calc2\Calc2\obj\Debug\Calc2.exe
+c:\users\patty golob\documents\visual studio 2013\Projects\Calc2\Calc2\obj\Debug\Calc2.pdb
+C:\Users\Patty Golob\documents\visual studio 2013\Projects\Calc2\Calc2\obj\Debug\Calc2.NicksCalc.resources
+C:\Users\Nicky\Downloads\Calc2\Calc2\bin\Debug\Calc2.exe.config
+C:\Users\Nicky\Downloads\Calc2\Calc2\obj\Debug\Calc2.exe
+C:\Users\Nicky\Downloads\Calc2\Calc2\obj\Debug\Calc2.pdb
